@@ -1,3 +1,6 @@
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
 <h1 align="center">Hi 👋, I'm Raveen Jayarathne</h1>
 <h3 align="center">A passionate training Software Engineer from Sri Lanka</h3>
 <img align="right" alt="coding"width="430" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"
